@@ -2,14 +2,14 @@
 
 [![Build Travis-CI Status](https://travis-ci.org/ifak/mbtcreator.svg?branch=master)](https://travis-ci.org/ifak/mbtcreator) [![License](https://img.shields.io/badge/license-LGPLv3-blue.svg)](https://github.com/ifak/mobata/blob/master/LICENSE)
 
-**Mbt (Model Based Test Automation) Creator** is a GUI based tool for model based testing including the followinf features:
+**Mbt (Model Based Test) Creator** is a GUI based tool for model based testing including the following features:
 - Requirement Formalization 
-- Model Synthesis (Seperate, see ifak)
+- Model Synthesis (Seperate, see [full version](https://github.com/ifak/mbtcreator#full-version))
 - Model Transformation
 - Statemachine Simulation
 - Specification Model Editors (Statemachine, Petri Net, Requirements, Test Cases)
-- Test Generation (Seperate, see ifak)
-- Test Execution (Seperate, see ifak)
+- Test Generation (Seperate, see [full version](https://github.com/ifak/mbtcreator#full-version))
+- Test Execution (Seperate, see [full version](https://github.com/ifak/mbtcreator#full-version))
 
 ## Authors and major contributors
 - [ifak] (https://www.ifak.eu)
@@ -33,7 +33,8 @@ It is recommended to run all units tests using the QtCreator, an IDE developed b
 
 Alternatively, it is possible to run the tests by starting the executable generated for each test script or by running *nmake check* in the build directory using a console.
 
-##
+## Full version
+Some features of the Mbt Creator are not included in the open source release but are available to interested parties. To learn more, contact (martin.reider@ifak.eu)
 
 ## License
 Mbt Creator is open source software licensed under the [LGPLv3](https://github.com/ifak/mbtcreator/blob/master/LICENSE).

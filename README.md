@@ -4,12 +4,12 @@
 
 **Mbt (Model Based Test) Creator** is a GUI based tool for model based testing including the following features:
 - Requirement Formalization 
-- Model Synthesis (Seperate, see [full version](https://github.com/ifak/mbtcreator#full-version)
+- Model Synthesis (Seperate, see [full version](https://github.com/ifak/mbtcreator#full-version))
 - Model Transformation
 - Statemachine Simulation
 - Specification Model Editors (Statemachine, Petri Net, Requirements, Test Cases)
-- Test Generation (Seperate, see [full version](https://github.com/ifak/mbtcreator#full-version)
-- Test Execution (Seperate, see [full version](https://github.com/ifak/mbtcreator#full-version)
+- Test Generation (Seperate, see [full version](https://github.com/ifak/mbtcreator#full-version))
+- Test Execution (Seperate, see [full version](https://github.com/ifak/mbtcreator#full-version))
 
 ## Authors and major contributors
 - [ifak] (https://www.ifak.eu)

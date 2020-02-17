@@ -1,0 +1,9 @@
+[submodule "appcreator"]
+	path = appcreator
+	url = https://github.com/ifak/appcreator.git
+[submodule "plugins/mbt_plugins"]
+	path = plugins/mbt_plugins
+	url = https://github.com/ifak/mbt_plugins.git
+[submodule "plugins/distest_plugins"]
+	path = plugins/distest_plugins
+	url = https://github.com/ifak/distest_plugins.git

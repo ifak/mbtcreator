@@ -7,3 +7,6 @@
 [submodule "plugins/distest_plugins"]
 	path = plugins/distest_plugins
 	url = https://github.com/ifak/distest_plugins.git
+[submodule "3rd/mobata"]
+	path = 3rd/mobata
+	url = https://github.com/ifak/mobata.git

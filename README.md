@@ -1,6 +1,6 @@
 # Mbt Creator 
 
-[![Build Travis-CI Status](https://travis-ci.org/ifak/mbtcreator.svg?branch=master)](https://travis-ci.org/ifak/mbtcreator) [![License](https://img.shields.io/badge/license-LGPLv3-blue.svg)](https://github.com/ifak/mobata/blob/master/LICENSE)
+[![Build Travis-CI Status](https://travis-ci.org/ifak/mbtcreator.svg?branch=master)](https://travis-ci.org/ifak/mbtcreator) [![Build status](https://ci.appveyor.com/api/projects/status/f44qnk4y4c5u407a?svg=true)](https://ci.appveyor.com/project/mnrdr/mbtcreator) [![License](https://img.shields.io/badge/license-LGPLv3-blue.svg)](https://github.com/ifak/mobata/blob/master/LICENSE)
 
 **Mbt (Model Based Test) Creator** is a GUI based tool for model based testing including the following features:
 - Requirement Formalization 

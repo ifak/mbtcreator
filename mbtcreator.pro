@@ -1,3 +1,7 @@
+exists($$PWD/mbtcreator.config){
+  include($$PWD/mbtcreator.config)
+}
+
 include(appconfig.pri)
 
 TEMPLATE  = subdirs
@@ -5,8 +9,15 @@ TEMPLATE  = subdirs
 SUBDIRS += 3rd
 SUBDIRS += appcreator
 SUBDIRS += plugins
-SUBDIRS += mbtinstaller
 
 plugins.depends += 3rd
 plugins.depends += appcreator
-mbtinstaller.depends += plugins
+
+isEmpty(MBTINSTALLER){
+  MBTINSTALLER = no
+}
+
+contains(MBTINSTALLER, yes){
+  SUBDIRS += SUBDIRS += mbtinstaller
+  mbtinstaller.depends += plugins
+}
